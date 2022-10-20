@@ -5,10 +5,10 @@ To The Future
 Come up with an idea for a open-source project
 
 #Language
-Any
+UI : React
 
 #After selecting the idea we'll start develop it
-Currunt idea : N/A
+Currunt idea : Shopping -card
 
 #Update your ideas at ideas.txt
 
