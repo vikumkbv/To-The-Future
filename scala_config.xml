@@ -2,5 +2,9 @@
   <component name="ScalaApplicationSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
     <option name="RENAME_SEARCH_IN_NON_CODE_FILES" value="true" />
+    <option name="RESEARCH_SEARCH_IN_COMMENTS" value="true" />
+    <option name="RESEARCH_SEARCH_IN_POSTS" value="true" />
+    <option name="RESEARCH_SEARCH_IN_NAMES" value="true" />
+    <option name="RESEARCH_SEARCH_IN_DETAILS" value="true" />
   </component>
 </application>
