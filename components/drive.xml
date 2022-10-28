@@ -4,8 +4,8 @@
       <component name="PropertiesComponent">
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
         <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <option name="RESEARCH_SEARCH_IN_COMMENTS" value="true" />
-        <option name="RESEARCH_SEARCH_IN_POSTS" value="true" />
+        <action name="RESEARCH_SEARCH_IN_COMMENTS" value="true" />
+        <action name="RESEARCH_SEARCH_IN_POSTS" value="true" />
         <option name="RESEARCH_SEARCH_IN_NAMES" value="true" />
         <option name="RESEARCH_SEARCH_IN_DETAILS" value="true" />
       </component>
